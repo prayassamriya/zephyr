@@ -12,7 +12,7 @@ ijson
 intelhex
 junit2html
 junitparser>=2
-lxml>=5.3.0
+lxml>=6.1.0
 mock
 mypy
 natsort
@@ -29,7 +29,7 @@ python-magic-bin; sys_platform == "win32"
 python-magic; sys_platform != "win32"
 pyyaml
 ruff==0.8.1
-setuptools>=70.2.0
+setuptools>=78.1.1
 sphinx-lint
 tabulate
 tomli>=1.1.0
